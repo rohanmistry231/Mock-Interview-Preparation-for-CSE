@@ -12,13 +12,13 @@ Our mission is to help you:
 - Practice real-world interview scenarios 🎭
 
 ## Contents
-1. **Introduction Guide** (`introduction.md`): Tips to create a concise, impactful self-introduction for CSE roles. 🗣️
-2. **What Not to Say** (`avoid_in_interviews.md`): Mistakes and phrases to avoid during interviews. 🙅‍♂️
-3. **Technical Preparation** (`technical_preparation.md`): Core CSE topics (algorithms, data structures, system design) with sample questions and solutions. 🖥️
-4. **Behavioral Questions** (`behavioral_questions.md`): Strategies for answering behavioral questions with examples. 🤝
-5. **Common Trap Questions** (`common_trap_questions.md`): Guidance on handling tricky questions that test critical thinking and composure. 🪤
-6. **Mock Interview Scenarios** (`mock_scenarios.md`): Practice scenarios with step-by-step guidance. 🎬
-7. **Resources** (`resources.md`): Curated books, websites, and tools for interview prep. 📖🔗
+1. **[Introduction Guide](./introduction.md)**: Tips to create a concise, impactful self-introduction for CSE roles. 🗣️
+2. **[What Not to Say](./avoid_in_interviews.md)**: Mistakes and phrases to avoid during interviews. 🙅‍♂️
+3. **[Technical Preparation](./technical_preparation.md)**: Core CSE topics (algorithms, data structures, system design) with sample questions and solutions. 🖥️
+4. **[Behavioral Questions](./behavioral_questions.md)**: Strategies for answering behavioral questions with examples. 🤝
+5. **[Common Trap Questions](./common_trap_questions.md)**: Guidance on handling tricky questions that test critical thinking and composure. 🪤
+6. **[Mock Interview Scenarios](./mock_scenarios.md)**: Practice scenarios with step-by-step guidance. 🎬
+7. **[Resources](./resources.md)**: Curated books, websites, and tools for interview prep. 📖🔗
 
 ## How to Use
 - Dive into specific `.md` files for focused prep. 📝
@@ -31,10 +31,10 @@ We love contributions! To add or enhance content:
 1. Fork this project. 🍴
 2. Create a new branch (`git checkout -b feature-name`). 🌿
 3. Add or edit `.md` files with clear, concise content. ✍️
-4. Submit a pull request with a description of changes. 🚀
+4. Submit Uppercase a pull request with a description of changes. 🚀
 
 ## License
 Licensed under the MIT License. See `LICENSE` for details. 📜
 
 ## Next Steps
-Kick off with `introduction.md` to craft your elevator pitch, then check `avoid_in_interviews.md` and `common_trap_questions.md` to polish your approach! 🌟
+Kick off with [introduction.md](./introduction.md) to craft your elevator pitch, then check [avoid_in_interviews.md](./avoid_in_interviews.md) and [common_trap_questions.md](./common_trap_questions.md) to polish your approach! 🌟
